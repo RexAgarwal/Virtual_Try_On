@@ -10,7 +10,6 @@
   - [Block Diagram](#block-diagram)
   - [Methodology](#methodology)
   - [Setup](#setup)
-  - [Citation](#citation)
 
 
 ## General info
